@@ -6,11 +6,11 @@
     </head>
     <body>
         <h1> Welcome!</h1>
-        <img src="Emoji.png" alt="Welcome to my page">
-
         <button> Page 1 </button>
         <button class="specialButton1"> Page 2</button>
         <p> This is my first HTML page. </p>
+        <img src="{{ url_for('static', filename='Emoji.png') }}" alt="" width="72" height="57">
+
     </body>
 </html>
 
