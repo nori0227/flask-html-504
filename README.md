@@ -1,7 +1,7 @@
 # flask-html-504
 
-#http://192.168.1.157
+# Assignment 3 Part 1 no bootstrap 
 
-#http://192.168.1.157/exercise
+## styled using CSS and HTML
 
-Error loading the image. Error message: url not found. Directory path and spelling checked.
+## screenshots in the screenshots folder 
