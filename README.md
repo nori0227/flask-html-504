@@ -1,6 +1,6 @@
 # flask-html-504
 
-# Assignment 3 Part 1 no bootstrap 
+# Assignment 3 Part 1 (no bootstrap) 
 
 ## styled using CSS and HTML
 
